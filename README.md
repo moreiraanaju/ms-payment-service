@@ -5,12 +5,6 @@ Faz parte da arquitetura distribuída composta também pelo serviço `ms-notific
 
 ---
 
-## 🧱 Infraestrutura
-A infraestrutura compartilhada (Postgres + RabbitMQ) está disponível no repositório:
-👉 [ms-infra](https://github.com/moreiraanaju/ms_infra)
-
----
-
 ## 🧱 Arquitetura
 
 Cliente → [Payment API] → Postgres
